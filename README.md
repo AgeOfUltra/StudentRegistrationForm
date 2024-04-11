@@ -12,7 +12,7 @@
 </ul>
 <p>Now You can download this repo and test it!.</p>
 <hr>
-<p>Download the sql file from the project <a href="">Click here see sql file</a> and run in the mysql databse software</p>
+<p>Download the sql file from the project <a href="src/main/resources/sql-file/">Click here see sql file</a> and run in the mysql databse software</p>
 
 <p>In the folder <a href="src/main/webapp/META-INF">webapp/META-INF/</a> we have created a context.xml file where we have configured the pool connection for data connection for multiple request</p>
 <p>Using DataSource interface to connect the connection pool</p>
