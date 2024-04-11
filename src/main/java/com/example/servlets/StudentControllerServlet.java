@@ -1,7 +1,7 @@
-package com.srikanth.servlets;
+package com.example.servlets;
 
-import com.srikanth.database.StudentDbUtil;
-import com.srikanth.pojo.Student;
+import com.example.database.StudentDbUtil;
+import com.example.pojo.Student;
 import jakarta.annotation.Resource;
 import jakarta.servlet.RequestDispatcher;
 import jakarta.servlet.ServletException;

@@ -1,6 +1,6 @@
-package com.srikanth.database;
+package com.example.database;
 
-import com.srikanth.pojo.Student;
+import com.example.pojo.Student;
 
 import javax.sql.DataSource;
 import java.sql.*;

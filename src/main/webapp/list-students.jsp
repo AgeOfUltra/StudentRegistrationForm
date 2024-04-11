@@ -1,4 +1,4 @@
-<%@page import="com.srikanth.pojo.Student"%>
+<%@page import="com.example.pojo.Student"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8" %>
 <%@ page import="java.util.*" %>

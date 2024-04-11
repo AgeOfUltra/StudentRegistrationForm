@@ -40,7 +40,7 @@
                 </table>
             </form>
             <div style="clear : both;"></div>
-            <p><a href="studentControllerServlet    ">back to home page</a></p>
+            <p><a href="studentControllerServlet">back to home page</a></p>
         </div>
 
     </body>
