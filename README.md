@@ -5,7 +5,10 @@
 <hr>
 <h3>Set up</h3>
 <ul>
-  <li>I used  intellij Idea for this small project</li>
+  <li>I used  intellij Idea for this small project! You can use eclips or any other IDE</li>
   <li>Create a Maven Webapp Archetype </li>
   <li>Setup tomcat in intellij </li>
 </ul>
+
+<hr>
+<p>In the folder <a href="">webapp/META-INF/</a></p>
