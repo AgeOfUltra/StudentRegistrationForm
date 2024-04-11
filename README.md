@@ -19,5 +19,14 @@
 <p>Performing the queries in the way we do in JDBC</p>
 <p>To forward the generated data in the servlet to jsp I have used Request Dispatcher.</p>
 <p>Instead of request Dispatcher we can also use Sessions, Cookies </p>
+<hr>
+Images
+<p>Home Page</p>
+![image](https://github.com/AgeOfUltra/StudentRegistrationForm/assets/98634633/6d5b1e31-2d94-4445-b8b5-3dcc4e0ca864)
+<p>Add Student Page</p>
+![image](https://github.com/AgeOfUltra/StudentRegistrationForm/assets/98634633/abd6b913-ad68-4253-b3c5-d43c65937157)
+<p>Update Page</p>
+![image](https://github.com/AgeOfUltra/StudentRegistrationForm/assets/98634633/e8e593e9-dd1f-44e7-8bce-a0c92c79582c)
+
 
 
