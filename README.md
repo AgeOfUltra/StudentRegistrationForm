@@ -12,15 +12,8 @@
 </ul>
 <p>Now You can download this repo and test it!.</p>
 <hr>
-<p>Copy paste the sql commands and run in the mysql</p>
-<div>
-create database student;
-  <br>
-create table student_info(id int not null auto_increment, firstName varchar(60) default null, secondName varchar(60) default null,email  varchar(100) default null,PRIMARY KEY (id));
-  <br>
-insert into student_info values(1,"Zoro","Roronova","zoro@gmail.com"),(2,"luffy","monkey.d","meat@gmail.com");
+<p>Download the sql file from the project <a href="">Click here see sql file</a> and run in the mysql databse software</p>
 
-</div>
 <p>In the folder <a href="src/main/webapp/META-INF">webapp/META-INF/</a> we have created a context.xml file where we have configured the pool connection for data connection for multiple request</p>
 <p>Using DataSource interface to connect the connection pool</p>
 <p>Performing the queries in the way we do in JDBC</p>
